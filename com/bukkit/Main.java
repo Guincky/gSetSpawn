@@ -1,7 +1,3 @@
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 package com.guinckyspawn.bukkit;
 
 import com.guinckyspawn.bukkit.eventos.MobNascer;
