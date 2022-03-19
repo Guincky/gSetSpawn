@@ -1,7 +1,3 @@
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 package com.guinckyspawn.bukkit.utils;
 
 import net.minecraft.server.v1_8_R3.Packet;
